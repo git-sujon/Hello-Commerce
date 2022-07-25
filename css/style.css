@@ -1,0 +1,26 @@
+.hello-bg {
+    background-color: #fceae8;
+}
+
+
+.hello-catagories img {
+    height: 100px;
+}
+.hello-card-bg-1{
+    background-color: orange;
+}
+.hello-card-bg-2{
+    background-color: orchid;
+}
+.hello-card-bg-3{
+    background-color: blue;
+}
+
+.hello-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
